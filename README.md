@@ -28,13 +28,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Jasne! Rozbudowałem tabelę o kolejne sekcje, dodając Android Studio oraz inne popularne technologie, które idealnie pasują do Twojego profilu (np. Postman do testowania API, Vite jako nowoczesny bundler czy Markdown, w którym właśnie piszesz to README).
-
-Dzieląc to na 6 mniejszych, dobrze poukładanych kategorii, profil będzie wyglądał bardzo profesjonalnie i przejrzyście.
-
-Oto gotowy kod do wklejenia:
-
-HTML
 ### 🛠️ Mój Tech Stack
 
 <table align="center" width="100%">
