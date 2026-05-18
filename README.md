@@ -10,9 +10,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🚀 Mój Flagowy Projekt
+### Mój Flagowy Projekt
 <div align="center">
-  <p>🤖 Tworzę i rozwijam aplikację mobilną <b><a href="https://play.google.com/store/apps/details?id=pl.jakubguzda.egzaminyzawodoweinf&hl=pl">Egzaminy Zawodowe EZ</a></b>, która pomaga w nauce do egzaminów zawodowych.</p>
+  <p>Tworzę i rozwijam aplikację mobilną <b><a href="https://play.google.com/store/apps/details?id=pl.jakubguzda.egzaminyzawodoweinf&hl=pl">Egzaminy Zawodowe EZ</a></b>, która pomaga w nauce do państwowych egzaminów zawodowych.</p>
   <a href="https://play.google.com/store/apps/details?id=pl.jakubguzda.egzaminyzawodoweinf&hl=pl">
     <img src="https://img.shields.io/badge/POBIERZ_Z-GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play App" />
   </a>
@@ -20,15 +20,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 O mnie
-- 🏅 **Edukacja:** Posiadam tytuł **technika informatyka** – z powodzeniem zdałem państwowe egzaminy zawodowe w kwalifikacjach **INF.03** oraz **INF.04**.
-- 🎓 **Studia:** Obecnie kontynuuję naukę na studiach, gdzie poszerzam swoje horyzonty i pogłębiam wiedzę z zakresu IT.
-- 🚀 **Rozwój:** Poza zajęciami szkolnymi i studiami, tworzę własne projekty z wykorzystaniem nowoczesnego stacku (React, Node, Firebase, Tailwind).
-- 💡 **Cel:** Pisanie czystego kodu i tworzenie aplikacji, które rozwiązują prawdziwe problemy.
+### O mnie
+- Jestem **technikiem informatykiem** (zdałem egzaminy INF.03 oraz INF.04), a obecnie kontynuuję naukę na studiach, poszerzając swoją wiedzę z zakresu IT.
+- Po godzinach zajęć rozwijam własne projekty, opierając się na nowoczesnym stacku technologicznym (React, Node, Firebase, Tailwind).
+- W programowaniu stawiam na czysty kod i tworzenie praktycznych aplikacji, które rozwiązują prawdziwe problemy użytkowników.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ Mój Tech Stack
+### Mój Tech Stack
 
 <table align="center" width="100%">
   <tr>
@@ -100,7 +99,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 Statystyki GitHub
+### Statystyki GitHub
 <p align="center">
   <picture>
     <source 
