@@ -1,30 +1,49 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cze%C5%9B%C4%87!+Jestem+Jakub;Welcome+to+my+profile!;I'm+a+Developer" alt="Typing SVG" />
-</h1>
+# Cześć! Jestem Jakub 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Retro game gif" />
+  <a href="https://play.google.com/store/apps/details?id=pl.jakubguzda.egzaminyzawodoweinf&hl=pl">
+    <img src="https://img.shields.io/badge/POBIERZ_Z-GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play App" />
+  </a>
 </div>
 
 <br>
 
-### 👾 O mnie (Player Stats)
-- 🔭 Pracuję nad: **[EgzaminyZawodoweINF](https://github.com/PumaYT22/EgzaminyZawodoweINF)** oraz nowymi projektami webowymi.
-- 🌱 Uczę się: **Django, Pythona i tworzenia fajnego Front-endu.**
-- 💬 Zapytaj mnie o: **HTML, JS, Python, i Kotlin.**
-- ⚡ Ciekawostka: *If two wrongs don't make a right, try three.* 😉
+### 👨‍💻 O mnie
+- 📱 Główny projekt: Tworzę i rozwijam aplikację mobilną **[Egzaminy Zawodowe EZ](https://play.google.com/store/apps/details?id=pl.jakubguzda.egzaminyzawodoweinf&hl=pl)**.
+- 🎓 Technologie szkolne: Znam i wykorzystuję w praktyce zagadnienia oraz technologie wymagane na państwowych egzaminach zawodowych **INF.03** oraz **INF.04**.
+- 🚀 Rozwój: Aktualnie mocno poszerzam swoje kompetencje tworząc aplikacje z wykorzystaniem nowoczesnego stacku (React, Node, Firebase).
 
-### 🛠️ Ekwipunek (Tech Stack)
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<br>
+
+### 🛠️ Mój Tech Stack
+
+**🌐 Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### 📊 Moje Statystyki (Leveling up)
+**⚙️ Backend & Bazy Danych**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**💻 Języki Programowania (INF.04)**
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<br>
+
+### 📊 Statystyki GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PumaYT22&show_icons=true&theme=tokyonight&hide_border=true" alt="PumaYT22's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PumaYT22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PumaYT22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Statystyki" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PumaYT22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Języki" />
 </p>
