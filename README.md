@@ -5,9 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Młody+Programista;Twórca+Egzaminy+Zawodowe+EZ;Technik+Informatyk;Student" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=M%C5%82ody+Programista;Tw%C3%B3rca+Egzaminy+Zawodowe+EZ;Technik+Programista;Student" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -80,14 +78,6 @@
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PumaYT22&hide_border=true" />
-  </picture>
-  <br><br>
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/PumaYT22/PumaYT22/output/stats-dark.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://raw.githubusercontent.com/PumaYT22/PumaYT22/output/stats.svg" />
   </picture>
   <br><br>
   <picture>
